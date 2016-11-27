@@ -13,7 +13,7 @@
 	.col-md-6 h3{font-size: 20px}
 	.col-md-6 img{display:block;float:left}
 	.progress{margin-top: 33px;margin-left:90px}
-	.progress-bar-color{background-color:#c0bae4}
+	.progress-bar-color{background-color:#afa8d1}
 	.dropdown_color{background-color:#e7e7e7}
 	.col-md-12 img{margin:50px auto}
 	.carousel-indicators li{background-color:#dadada;border:none;}
@@ -21,10 +21,10 @@
 	.left_arrow{position:absolute;top:36%;left:0}
 	.right_arrow{position:absolute;top:36%;right:0}
 	.right_side{right:0;left:auto}
-	#picture_album img,#trifold img{display: block;margin:30px auto 30px;box-shadow: 2px 2px 5px #ddd}
+	#picture_album img,#trifold img,#font img,#poster img{display: block;margin:30px auto 30px;box-shadow: 2px 2px 5px #ddd}
 	#poster img{display: block;margin:30px auto 30px;}
 	#icon img{display: block;margin:30px auto 30px;}
-	#contact_me{background-color:#f1f1f1;padding-top:20px;padding-bottom:10px}
+	#contact_me{background-color:#f1f1f1;padding-top:20px;padding-bottom:10px;border-top:1px solid #ddd}
 	#email{margin-top:25px}
 	#phone{margin-top:30px}
 	#down{padding-top:20px;border-top:1px solid #bbb;margin-top:30px}
